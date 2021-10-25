@@ -5,13 +5,11 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
-<i>Am Just A Advance Auto Filter Bot....😉
+<i>Am Just A Advance Auto Filter Bot V2
 
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
-
-For More Details Click Help Button Below..
-@CrazyBotsz
-</i>"""    
+Command text- If anyone in my group asks for movies, they should replay,
+I want to save the movies I give,Members in my group should give me time if they ask for any of the movies I have given.
+    
     
     HELP_TEXT = """
 <b><i><u>How To Use Me!?</u></i></b>
